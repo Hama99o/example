@@ -1,1 +1,2 @@
 hello
+HTTP is a stateless protocol, treating each request as an independent transaction that is unable to use information from any previous requests. This means there is no way within the Hypertext Transfer Protocol to remember a user’s identity from page to page; instead, web applications requiring user login must use a session, which is a semipermanent connection between two computers (such as a client computer running a web browser and a server running Rails).
